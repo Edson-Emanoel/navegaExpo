@@ -13,4 +13,6 @@
       npx expo start
 ````
 
-37 min e 37 seg;
+## Ref.
+
+Link: https://www.youtube.com/watch?v=ci0tuIAAvTY
